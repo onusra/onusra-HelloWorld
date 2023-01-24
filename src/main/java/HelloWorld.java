@@ -12,7 +12,11 @@ public class HelloWorld {
      * 
      * @return "Hello, world!"
      */
+
+    public static void main(String[] args){
+        
+    }
     public String sayHello(){
-        return "change me";
+        return "Hello, world!";
     }
 }
